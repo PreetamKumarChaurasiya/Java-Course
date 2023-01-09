@@ -1,7 +1,7 @@
 /**
  * 	Author:			Preetam Kumar Chaurasiya
  * 	Class:			CIST-2372
- * 	Date:			2013-06-01
+ * 	Date:			2023-01-09
  * 	Filename:		Median.java
  * 	Assignment:		Chapter 9 Ex 1a
  *
