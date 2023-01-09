@@ -19,7 +19,7 @@
 
 public class DemoSquare
 {
-	public static void main(String[] args)
+	public static void main(String[] args) 
 	{
 		/*
 			Technically a square and a cube have sides that are all the same 
