@@ -1,5 +1,5 @@
 /**
- * 	Author:			Preetam Kumar Chaurasiya
+ * 	Author:			Preetam Kumar Chaurasiya 
  * 	Class:			CIST-2372
  * 	Date:			2023-01-09
  * 	Filename:		Median2.java
