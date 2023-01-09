@@ -1,6 +1,6 @@
 /**
-	Programmer:			Sean Thames
-	Date:				2013-06-06
+	Programmer:			Preetam Kamar Chaurasiya 
+	Date:				2023-01-09
 	Filename:			DemoSquare.java
 	Assignment: 		Ch 10 Ex 2
 	Description:		Create a class named "Square" that contains data fields 
