@@ -1,6 +1,6 @@
 /**
- * Programmer:			Sean Thames
- * Date:				2013-06-14
+ * Programmer:			Preetam Kumar Chaurasiya 
+ * Date:				2023-01-15
  * Filename:			Savings.java
  * Assignment: 			Ch 11 Ex 2
  * 
